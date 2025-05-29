@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor of Science in Computer Science - undergraduate",
-    duration: "2021 - Present",
+    duration: "2022 - Present",
     institution: "Cavite State University - Imus Campus",
   },
   {
