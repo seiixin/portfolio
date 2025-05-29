@@ -18,7 +18,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '/image/POS.jpg',
-        demoLink: 'https://drive.google.com/file/d/1vcZ2q3bo-G4HTrku3mzruiXke-lO89TV/view?usp=drive_link',
+        demoLink: 'https://drive.google.com/file/d/11hlo6to_qY8bB1E8-NokZu2oBdT65nTT/view?usp=drive_link',
     },
 
 ];
